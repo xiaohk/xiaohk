@@ -8,7 +8,7 @@ designing and developing novel **Interactive Interfaces** for people to easily
 and enjoyably interact with **Machine Learning systems** at scale.
 
 I love open source. I lead and maintain the following open-source research
-projects.
+projects. ⬇️
 
 Please reach out if you have any questions or want to chat!
 
